@@ -3,9 +3,9 @@
 # Group 3
 
 # Group Member
-Lu-Yin Wang
-Shih Jui Heh
-Ziyan Liu
+- Lu-Yin Wang
+- Shih Jui Heh
+- Ziyan Liu
 
 # Description
 - A short description of the project.
